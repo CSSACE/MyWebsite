@@ -88,59 +88,15 @@
 
 <body>
 <ul>
-  <li>一级标题
+  <li><font size="7">一级标题</font>
     <ul>
-      <li>二级标题
+      <li><font size="6">二级标题</font>
         <ul>
-          <li>三级标题
+          <li><font size="5">三级标题</font>
             <ul>
-              <li>四级标题</li>
-              <li>四级标题</li>
-              <li>四级标题</li>
+              <li><font size="4">四级标题</font></li>
             </ul>
           </li>
-          <li>三级标题<img src="images/maindbms.jpg" height="18" /></li>
-        </ul>
-      </li>
-      <li>二级标题
-        <ul>
-          <li>三级标题</li>
-          <li>三级标题<img src="images/relationdb.jpg" height="18" /></li>
-          <li>三级标题
-            <ul>
-              <li>四级标题</li>
-              <li>四级标题：<img src="images/dbbase1.jpg" alt="" height="18" />，<img src="images/dbbase2.jpg" alt="" height="18" /></li>
-              <li>四级标题</li>
-              <li>四级标题：<img src="images/dbfile1.jpg" alt="" height="18" />，<img src="images/dbfile2.jpg" alt="" height="18" /></li>
-            </ul>
-          </li>
-          <li>三级标题
-            <ul>
-              <li>四级标题</li>
-              <li>四级标题</li>
-              <li>四级标题</li>
-              <li>四级标题</li>
-              <li>四级标题</li>
-              <li>四级标题</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li>二级标题：<img src="images/mysql_struct.jpg" alt="" height="18" />
-        <ul>
-          <li>三级标题</li>
-          <li>三级标题</li>
-          <li>三级标题</li>
-        </ul>
-      </li>
-      <li>二级标题
-        <img src="images/mysql_struct2.jpg" alt="" height="18" />
-        <ul>
-          <li>三级标题</li>
-          <li>三级标题</li>
-          <li>三级标题</li>
-          <li>三级标题</li>
-          <li>三级标题</li>
         </ul>
       </li>
     </ul>
