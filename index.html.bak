@@ -120,8 +120,8 @@
 </head>
 
 <body>
-<ul>
-  <li>一级标题
+<ul id="main">
+  <li>概率论<img src="images/gailv.jpg" height="18" />
     <ul>
       <li>二级标题
         <ul>
