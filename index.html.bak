@@ -85,6 +85,11 @@
 
 </script>
 <style type="text/css">
+	 
+	#main li{font-size:40px}
+	#main li ul li{font-size:35px}
+	#main li ul li ul li{font-size:30px}
+	#main li ul li ul li ul li{font-size:25px}
 	body{
 
     /*加载背景图*/
@@ -110,11 +115,7 @@
    /* 设置背景颜色，背景图加载过程中会显示背景色 */
    background-color: #CCCCCC;
 
-	} 
-	#main li{font-size:40px}
-	#main li ul li{font-size:35px}
-	#main li ul li ul li{font-size:30px}
-	#main li ul li ul li ul li{font-size:25px}
+	}
 </style>
 </head>
 
